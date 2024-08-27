@@ -1,0 +1,16 @@
+DOM is a Document Object Model.
+
+It is a structure representation of HTML documents.
+
+DOM allows JS to access HTML elements and manipulate them.
+
+DOM is a connection between HTML documents and JS code.
+
+Web Browsers create DOM upon loading up.
+
+Document object is the entry point of the DOM hierarchy
+
+"btn" gives a custom button itself.
+
+In JS, keyboard button press and mouth clicks are listened to by JS. These are called Events.
+
